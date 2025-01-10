@@ -1,4 +1,4 @@
-module https://github.com/jpx40/dataframe-go
+module github.com/jpx40/dataframe-go
 
 go 1.15
 
